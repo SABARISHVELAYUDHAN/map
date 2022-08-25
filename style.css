@@ -1,0 +1,78 @@
+body
+{
+    background-color: mediumturquoise;
+}
+
+h1
+{   
+text-align:center;
+font-weight: bolder;
+text-shadow: 2cm;
+font-size: 45px;
+font-display: red;
+}
+
+h3
+{   
+    font-style: italic;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgb(245, 7, 7);
+}
+
+h4
+{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 35px;
+    color: navyblack;
+}
+
+p
+{font-style: italic;font-weight: normal;margin: 0;color: midnightblue;}
+
+p1
+{
+    font-weight: bold;
+    font-size: 25px;
+    color: midnightblue;
+}
+
+label 
+{
+    text-align:left;
+    text-size-adjust: 2cm;
+    font-style: initial;
+}
+
+input 
+{
+    text-align:left;
+    text-size-adjust: 2cm;
+    font-style: initial;
+}
+
+button
+{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+image
+{
+    text-align: center;
+}
+
+footer
+{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+iframe
+{
+    font-size: 45px;
+    background-color: steelblue;
+}
