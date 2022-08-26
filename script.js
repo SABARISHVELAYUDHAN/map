@@ -16,5 +16,7 @@ function myFunction(){
         }
         
             getIP().then(data => console.log(data));
+
+            console.log(a,b,c,d);
         
     }

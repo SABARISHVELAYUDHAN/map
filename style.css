@@ -1,6 +1,6 @@
 body
 {
-    background-color: mediumturquoise;
+    background-color: aquamarine;
 }
 
 h1
@@ -69,8 +69,30 @@ image
     text-align: center;
 }
 
+nav
+{
+    float: left;
+    padding: 30px;
+    width: 40%;
+}
+
+article
+{
+    float: inline-end;
+    padding: 50px;
+    width: 60%;
+}
+
+section::after
+{
+    content: "";
+    display: table;
+    clear: both;
+}
+
 footer
 {
+    background-color: #777777;
     text-align: center;
     font-size: 30px;
     font-weight: bolder;
